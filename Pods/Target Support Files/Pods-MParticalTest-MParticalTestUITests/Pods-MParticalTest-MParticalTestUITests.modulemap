@@ -1,0 +1,6 @@
+framework module Pods_MParticalTest_MParticalTestUITests {
+  umbrella header "Pods-MParticalTest-MParticalTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

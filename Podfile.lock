@@ -1,0 +1,16 @@
+PODS:
+  - FrameworkTest (0.9.6)
+
+DEPENDENCIES:
+  - FrameworkTest (= 0.9.6)
+
+SPEC REPOS:
+  https://github.com/Daniel-GiniApps/CarthagePrivateFramework.git:
+    - FrameworkTest
+
+SPEC CHECKSUMS:
+  FrameworkTest: dfaeaf422b80f0eabd68fd14e527bc93eca847d6
+
+PODFILE CHECKSUM: aadea9b5ce88a35e2fe563469c7486cb318758fd
+
+COCOAPODS: 1.9.3
